@@ -1,5 +1,21 @@
 # `whoami`
 
+I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from golfing languages to extreme abstract.
+
+# Favorite Artists 
+
+[Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6)
+[Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc)
+[Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)
+[NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz)
+
+# Favorite Programmers
+
+[Tsoding]()
+[randy.gg]()
+
+# Favorite 
+
 You should check out my <a href=https://github.com/xleph>other account</a>.
 
 <!--
