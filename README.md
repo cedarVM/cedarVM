@@ -16,7 +16,13 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 + [randy.gg](https://www.youtube.com/@randyprime)
 + [Bat](https://www.youtube.com/@Magicalbat)
 
-# Favorite 
+# Favorite Maths Channels
+
++ [Maths505](https://www.youtube.com/@maths_505)
++ [Michael Penn](https://www.youtube.com/@MichaelPennMath)
++ [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
+
+If you couldn't tell, I watch a lot of youtube.
 
 You should check out my <a href=https://github.com/xleph>other account</a>.
 
