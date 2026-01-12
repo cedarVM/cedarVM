@@ -21,7 +21,7 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 
 ![Terrible convergence](img/multivar.png)
 
-<pre>and finding a constant as offset to this logarithmic growth:</pre>
+<pre>and finding a constant as offset to the above's visible logarithmic growth:</pre>
 
 ![logarithmic intersection](img/intersect.png)
 
