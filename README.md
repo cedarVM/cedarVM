@@ -1,6 +1,6 @@
 # `whoami`
 
-I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from golfing languages to [abstract mathematics](https://www.reddit.com/r/math/comments/m0u7yw/distribution_of_primes_along_a_hilbert_curve/).
+I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from [golfing languages](https://emkc.org/contests/41/find-a-word) to [abstract mathematics](https://www.reddit.com/r/math/comments/m0u7yw/distribution_of_primes_along_a_hilbert_curve/).
 
 # Favorite Artists 
 
@@ -20,7 +20,7 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 
 + [Maths505](https://www.youtube.com/@maths_505)
 + [Michael Penn](https://www.youtube.com/@MichaelPennMath)
-+ [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
++ [3blue1brown](https://www.youtube.com/@3blue1brown)
 
 If you couldn't tell, I watch a lot of youtube.
 
