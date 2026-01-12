@@ -1,6 +1,6 @@
 
-<div>
-  <pre style="text-align: center">
+<div style="text-align: center">
+  <pre>
     Why hello there
   </pre>
   <br>
