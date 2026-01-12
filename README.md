@@ -2,12 +2,24 @@
 
 I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from [golfing languages](https://emkc.org/contests/41/find-a-word) to [visualizing mathematics](https://www.reddit.com/r/math/comments/m0u7yw/distribution_of_primes_along_a_hilbert_curve/).
 
-# Top three favorite personal projects
-1.
+# Top five favorite personal projects
+1. [Surface Go Boardgame](https://github.com/cedarVM/boardgame)
+  + A game of rafts (with cannons?) that is programmed entirely in C and the old X11 API.
+2. [Sokoban](https://github.com/cedarVM/initAgony)
+  + Final project for Digital Logic Design (2023F). The compiled binaries are Quartus DE1-SoC specific executables. There's some code for bitmap to ROM level generation.
+3. [Prime number density](https://github.com/xleph/HilbertPrimes)
+  + Prime numbers are cool. Ever heard of Ulam spirals?
+4. (2, 4) tree deletion procedure for Data Structures (2024F)
+  + Implementation of a (2, 4) tree.
+5. CedarvilleDucks
+  + Simple Unity game that mimics grid defense games
 
-2.
-
-3.
+# Current Projects
+1. Re-indexing and cataloguing all of my previous projects
+2. Explaining [this](deadlinkfortheprimecountrange)
+3. Finding the zeroes of the following multivariable expression:
+   + ![Terrible convergence](img/multivar.png)
+   + ![logarithmic intersection](img/intersect.png)
 
 # Favorite Programming Slop
 
