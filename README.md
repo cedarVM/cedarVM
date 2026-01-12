@@ -1,6 +1,6 @@
 # `whoami`
 
-I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from [golfing languages](https://emkc.org/contests/41/find-a-word) to [visualizing mathematics](https://www.reddit.com/r/math/comments/m0u7yw/distribution_of_primes_along_a_hilbert_curve/).
+I am Matthew Louden, a Junior Computer Science student at Cedarville University. My interests and obsessions range from [golfing languages](https://emkc.org/contests/41/find-a-word) to [visualizing mathematics](https://www.reddit.com/r/math/comments/m0u7yw/distribution_of_primes_along_a_hilbert_curve/). You can reach me at [mlouden@cedarville.edu](dead).
 
 # Top five favorite personal projects
 1. [Surface Go Boardgame](https://github.com/cedarVM/boardgame)
