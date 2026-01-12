@@ -3,11 +3,13 @@
     Why hello there
   </pre>
   <br>
-  You should check out my <a href=https://github.com/xleph>other account</a>.
-  <br>
   <pre>
     html? in my repo?
   </pre>
+  <br>
+  <div>
+  You should check out my <a href=https://github.com/xleph>other account</a>.
+  </div>
 </div>
 
 <!--
