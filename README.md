@@ -1,5 +1,5 @@
 
-<div style="text-align: center">
+<div>
   <pre>
     Why hello there
   </pre>
