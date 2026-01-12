@@ -49,6 +49,22 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 + 03/15/26
   + Get all LaTeX adjacent docs into a place like [this](https://github.com/MathEnthusiast314/DesHost)
 
+# Markdown samples
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 <!--
 **cedarVM/cedarVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
