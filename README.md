@@ -4,15 +4,15 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 
 # Top five favorite personal projects
 1. [Surface Go Boardgame](https://github.com/cedarVM/boardgame)
-  - A game of rafts (with cannons?) that is programmed entirely in C and the old X11 API.
+   - A game of rafts (with cannons?) that is programmed entirely in C and the old X11 API.
 2. [Sokoban](https://github.com/cedarVM/initAgony)
-  - Final project for Digital Logic Design (2023F). The compiled binaries are Quartus DE1-SoC specific executables. There's some code for bitmap to ROM level generation.
+   - Final project for Digital Logic Design (2023F). The compiled binaries are Quartus DE1-SoC specific executables. There's some code for bitmap to ROM level generation.
 3. [Prime number density](https://github.com/xleph/HilbertPrimes)
-  - Prime numbers are cool. Ever heard of Ulam spirals?
-4. (2, 4) tree deletion procedure for Data Structures (2024F)
-  - Implementation of a (2, 4) tree.
-5. CedarvilleDucks
-  - Simple Unity game that mimics grid defense games
+   - Prime numbers are cool. Ever heard of Ulam spirals?
+5. (2, 4) tree deletion procedure for Data Structures (2024F)
+   - Implementation of a (2, 4) tree.
+6. CedarvilleDucks
+   - Simple Unity game that mimics grid defense games
 
 # Current Projects
 1. Re-indexing and cataloguing all of my previous projects
