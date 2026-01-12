@@ -9,9 +9,9 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
    - Final project for Digital Logic Design (2023F). The compiled binaries are Quartus DE1-SoC specific executables. There's some code for bitmap to ROM level generation.
 3. [Prime number density](https://github.com/xleph/HilbertPrimes)
    - Prime numbers are cool. Ever heard of Ulam spirals?
-5. (2, 4) tree deletion procedure for Data Structures (2024F)
+5. (2, 4) tree deletion procedure for [Data Structures](https://github.com/CedarvilleCS2210/cs2210termproj-fa24-cedarVM) (2024F)
    - Implementation of a (2, 4) tree.
-6. CedarvilleDucks
+6. [CedarvilleDucks](https://github.com/cedarVM/CedarvilleDucks)
    - Simple Unity game that mimics grid defense games
 
 # Current Projects
