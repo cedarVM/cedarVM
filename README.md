@@ -18,8 +18,9 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 1. Re-indexing and cataloguing all of my previous projects
 2. Explaining [this](deadlinkfortheprimecountrange)
 3. Finding the zeroes of the following multivariable expression:
-   - ![Terrible convergence](img/multivar.png)
-   - ![logarithmic intersection](img/intersect.png)
+![Terrible convergence](img/multivar.png)
+<pre>and finding a constant as offset to this logarithmic growth:</pre>
+![logarithmic intersection](img/intersect.png)
 
 # Favorite Programming Slop
 
