@@ -5,14 +5,20 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 # Favorite Artists 
 
 [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6)
+
 [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc)
+
 [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)
+
 [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz)
 
-# Favorite Programmers
+# Favorite YT Programming Slop
 
-[Tsoding]()
-[randy.gg]()
+[Tsoding](https://www.youtube.com/@TsodingDaily)
+
+[randy.gg](https://www.youtube.com/@randyprime)
+
+[Bat](https://www.youtube.com/@Magicalbat)
 
 # Favorite 
 
