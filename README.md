@@ -25,6 +25,7 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 
 ![logarithmic intersection](img/intersect.png)
 
+<!--
 # Favorite Programming Slop
 
 + [Tsoding](https://www.youtube.com/@TsodingDaily)
@@ -45,10 +46,13 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 + [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)
 + [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz)
 
+-->
+
 # Roadmap for this account
 + 03/15/26
   + Get all LaTeX adjacent docs into a place like [this](https://github.com/MathEnthusiast314/DesHost)
 
+<!--
 # Markdown samples
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -69,7 +73,6 @@ I am Matthew Louden, a Junior Computer Science student at Cedarville University.
 - [ ] Add thing 1
 - [ ] Add thing 2
 
-<!--
 **cedarVM/cedarVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
